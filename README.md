@@ -10,5 +10,7 @@ Press "Write New Style"
 Add the code from the style.css.
 
 
+
+# Credits
 Original Creator is Fasteroid, I just edited it so it worked with newer code.
 https://gist.github.com/Fasteroid/bf1059f86b8aa36b930f984674c3d404
